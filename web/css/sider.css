@@ -1,0 +1,24 @@
+.sider {
+    padding-top: 1em;
+}
+
+.sider h4 {
+    font-size: 24px;
+}
+
+.category {
+    margin: 1em 0;
+    font-size: 17px;
+}
+
+.category a {
+    color: black;
+}
+
+.main-content {
+    border-left: 1px solid #E3E3E3;
+}
+
+main {
+    margin: 1em 0;
+}

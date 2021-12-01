@@ -1,0 +1,17 @@
+main{
+    margin: 2em 0;
+}
+
+img {
+    width: 70%;
+}
+
+.main-ctn-btn {
+    width: 27%;
+    height: 2.3em;
+    background-color: #274156;
+    color: white;
+    font-size: 26px;
+    font-weight: 700;
+    border-radius: 10px;
+}
